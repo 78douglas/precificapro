@@ -1,6 +1,7 @@
 # PrecificaPro
 
-![PrecificaPro](https://mocha-cdn.com/og.png)
+![PrecificaPro](<img width="1168" height="859" alt="image" src="https://github.com/user-attachments/assets/e8495cd2-fceb-4a37-91ac-4cf4f857c48f" />)
+
 
 ## Sistema de Geração de Listas de Preços Personalizadas
 
